@@ -167,7 +167,7 @@ You can also set a custom start number with `data-start`:
 
 ## License
 
-[ISC](https://opensource.org/licenses/ISC)
+This project is licensed under the [ISC License](https://opensource.org/licenses/ISC).
 
 Copyright 2025 Paulo Lopes
 
