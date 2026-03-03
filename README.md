@@ -169,7 +169,7 @@ You can also set a custom start number with `data-start`:
 
 This project is licensed under the [ISC License](https://opensource.org/licenses/ISC).
 
-Copyright 2025 Paulo Lopes
+Copyright 2026 Paulo Lopes
 
 Permission to use, copy, modify, and/or distribute this software for any
 purpose with or without fee is hereby granted, provided that the above
